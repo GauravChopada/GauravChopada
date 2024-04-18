@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gaurav Chopda</h1>
-<h3 align="center">Software Engineer from India 🇮🇳</h3>
+# Hi 👋, I'm Gaurav Chopda
+## Software Engineer from India 🇮🇳
 
 - 🔭 I’m currently working on **Byte Battle**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://gaurav-chopda.vercel.app/](https://gaurav-chopda.vercel.app/)
+- 👨‍💻 Do visit my amazing [portfolio](https://gaurav-chopda.vercel.app/)
 
 - 📫 How to reach me **gauravchopda.dev@gmail.com**
 
